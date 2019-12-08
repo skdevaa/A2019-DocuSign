@@ -1,0 +1,10 @@
+{
+  "name": "DocuSign",
+  "label": "DocuSign",
+  "description": "Provides actions for DocuSign operations.",
+  "group": "",
+  "artifactName": "",
+  "packageVersion": "",
+  "codeVersion": "",
+  "commands": []
+}

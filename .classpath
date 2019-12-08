@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="bin/main" path="src/main/java">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="bin/main" path="src/main/resources">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11/">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="lib" path="libs/bot-api-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="libs/bot-runtime-1.4.0-SNAPSHOT-default.jar"/>
+	<classpathentry kind="lib" path="libs/command-annotations-1.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="libs/command-plugin-1.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="libs/docusign-esign-java-2.8.0.jar" sourcepath="C:/Users/Stefan Karsten/.m2/repository/com/docusign/docusign-esign-java/2.8.0/docusign-esign-java-2.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="libs/i18n-api-1.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="libs/jersey-core-1.19.1.jar"/>
+	<classpathentry kind="lib" path="libs/log4j-api-2.12.1.jar"/>
+	<classpathentry kind="lib" path="libs/log4j-core-2.12.1.jar"/>
+	<classpathentry kind="lib" path="libs/shadow-2.0.4.jar"/>
+	<classpathentry kind="lib" path="libs/command-processor-1.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="bin/default"/>
+</classpath>

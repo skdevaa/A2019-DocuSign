@@ -1,0 +1,10 @@
+{
+  "name": "A2019DemoPackage",
+  "label": "A2019DemoPackage",
+  "description": "Provides actions for A2019DemoPackage operations.",
+  "group": "",
+  "artifactName": "",
+  "packageVersion": "",
+  "codeVersion": "",
+  "commands": []
+}

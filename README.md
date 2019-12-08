@@ -1,8 +1,1 @@
-# A2019-Packages
-Sample Packages for <br>
- <ul>
-  <li>DocuSign</li>
-  <li>IBM Watson</li>
-  <li>AWS AI Services </li>
-  <li>String Utilities</li>
-</ul> 
+Sample Package to create DocuSign enevelopes for PDF and EXCEL documents <br> and send them via email to let them sign
